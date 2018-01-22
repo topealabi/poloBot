@@ -1,4 +1,4 @@
-# BombayNoirBot
+# BombayNoir
 
 The mission of the Bombay Noir Trading Company is to automate our income using cryptocurrency trading software. This is the first version. 
 
@@ -11,3 +11,4 @@ In the short term our <b>Todos</b> include:
  - Choosing a simple trading strategy, 
  - Creating a cron job to run our strategy
  - hosting this script on a remote web server
+ 
