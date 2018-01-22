@@ -1,6 +1,6 @@
-# poloBot
+# BombayNoirBot
 
-The mission of the Bombay Trading Company is to automate our income using cryptocurrency trading software. This is the first version. 
+The mission of the Bombay Noir Trading Company is to automate our income using cryptocurrency trading software. This is the first version. 
 
 <b><u>This version can:</u></b>
 
